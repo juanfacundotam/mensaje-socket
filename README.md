@@ -1,2 +1,2 @@
 # mensaje-socket
-Software - Mensaje de una maquina a la otra
+Software - Mensaje de una maquina a la otra - Python
